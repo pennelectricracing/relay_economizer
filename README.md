@@ -17,28 +17,28 @@ DRV110: The DRV110 device is a PWM current controller for solenoids. It is desig
 
 Features:
 
-Internal Zener Diode on Supply Pin for High-Voltage Operation
+- Internal Zener Diode on Supply Pin for High-Voltage Operation
 
   - 120- and 230-V AC Supply Through Rectifier and RS Resistor
 
   - 24-V, 48-V, and Higher DC Supply Through RS Resistor  
 
-Drives an External MOSFET With PWM to Control Solenoid Current
+- Drives an External MOSFET With PWM to Control Solenoid Current
 
   - External Sense Resistor for Regulating Solenoid Current
 
-Fast Ramp-Up of Solenoid Current to Ensure Activation
+- Fast Ramp-Up of Solenoid Current to Ensure Activation
 
-Solenoid Current is Reduced in Hold Mode for Lower Power and Thermal Dissipation
+- Solenoid Current is Reduced in Hold Mode for Lower Power and Thermal Dissipation
 
-Ramp Peak Current, Keep Time at Peak Current, Hold Current, and PWM Clock Frequency Can Be Set Externally.
+- Ramp Peak Current, Keep Time at Peak Current, Hold Current, and PWM Clock Frequency Can Be Set Externally.
 
-Protection
+- Protection
 
   - Thermal Shutdown
 
   - Undervoltage Lockout (UVLO)
 
-Operating Temperature Range: –40ºC to +125ºC
+- Operating Temperature Range: –40ºC to +125ºC
 
 See more @https://www.ti.com/product/DRV110#product-details##params
