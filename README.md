@@ -19,13 +19,13 @@ Features:
 
 Internal Zener Diode on Supply Pin for High-Voltage Operation
 
-  120- and 230-V AC Supply Through Rectifier and RS Resistor
+  - 120- and 230-V AC Supply Through Rectifier and RS Resistor
 
-  24-V, 48-V, and Higher DC Supply Through RS Resistor  
+  - 24-V, 48-V, and Higher DC Supply Through RS Resistor  
 
 Drives an External MOSFET With PWM to Control Solenoid Current
 
-  External Sense Resistor for Regulating Solenoid Current
+  - External Sense Resistor for Regulating Solenoid Current
 
 Fast Ramp-Up of Solenoid Current to Ensure Activation
 
@@ -35,9 +35,9 @@ Ramp Peak Current, Keep Time at Peak Current, Hold Current, and PWM Clock Freque
 
 Protection
 
-  Thermal Shutdown
+  - Thermal Shutdown
 
-  Undervoltage Lockout (UVLO)
+  - Undervoltage Lockout (UVLO)
 
 Operating Temperature Range: –40ºC to +125ºC
 
