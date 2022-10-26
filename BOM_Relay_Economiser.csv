@@ -1,0 +1,12 @@
+Comment,Description,Designator,Quantity,Man. Part Number
+
+"1uF","Chip Capacitor, 1 uF, +/- 10%, 50 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel","C1, C2","2",""
+"Diode 1N4007","1 Amp General Purpose Rectifier","D1","1",""
+"2 contacts Male header","Connector Male Header 1X2 vertical 2contacts  pitch Tin finish polarized, notched","J1, J2","2",""
+"FDB33N25TM","N-Channel UniFET(TM) MOSFET, 250 V, 33 A, 94 mOhm, -55 to 150 degC, 3-Pin D2PAK (TO-263), RoHS, Tape and Reel","Q1","1",""
+"TNPW060352K3BEEA","52.3k","R1","1",""
+"1M5 5% 0805(2012)","1M5 0.125W 5% 0805 (2012 Metric)  SMD","R2","1",""
+"ERA6AEB204V","","R3","1",""
+"ERJ8BQFR30V","0.3ohm","R4","1",""
+"3.9K Ohms","Resistor Surface Mount, 3.9K Ohms, 0603 Footprint, 10% Tolerance 0.1W","R5","1",""
+"DRV110","Single-Channel Relay, Solenoid, Valve Low-Side Controller With Current Regulation","U1","1",""
