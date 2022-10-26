@@ -1,5 +1,8 @@
 # relay_economizer
 
+![5090681633791421386](https://user-images.githubusercontent.com/14287399/197922197-8bccef32-1271-48c1-860d-0e1820440b60.png)
+
+
 DESCRIPTION
 
 This board (sponsored by JLCPCB) will allow us to have a higher power efficiency by creating a PWM signal to control our relay coils.
